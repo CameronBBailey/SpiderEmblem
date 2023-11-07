@@ -1,2 +1,5 @@
+AnimationPlayer
 Sprite2D
+PathFollow2D
+Path2D
 TileMap

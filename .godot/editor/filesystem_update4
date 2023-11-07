@@ -1,2 +1,3 @@
 res://scenes/levels/level.tscn
-res://ideas.txt
+res://Scripts/Unit.gd
+res://scenes/Units/unit.tscn
