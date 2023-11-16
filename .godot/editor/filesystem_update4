@@ -1,3 +1,2 @@
-res://scenes/levels/level.tscn
-res://Scripts/Unit.gd
-res://scenes/Units/unit.tscn
+res://Main.tscn
+res://GameBoard/unit_path_tileset.tres
